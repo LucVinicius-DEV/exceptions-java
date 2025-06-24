@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Exceptions%20em%20Java&fontSize=40&fontAlignY=60&desc=Tratamento%20de%20erros%20com%20exceções%20personalizadas&descSize=20&descAlignY=90" />
+  <img src="https://raw.githubusercontent.com/LucVinicius-DEV/exceptions1-java/main/banner.png" alt="Banner exceptions1-java" />
 </p>
 
-# Tratamento de Exceções 
+# exceptions1-java
 
 Repositório criado durante o curso de Java do professor Nélio Alves.
 
