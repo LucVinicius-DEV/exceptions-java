@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/LucVinicius-DEV/exceptions1-java/main/banner.png" alt="Banner exceptions1-java" />
 </p>
 
-# exceptions1-java
+# Exceptions
 
 Repositório criado durante o curso de Java do professor Nélio Alves.
 
